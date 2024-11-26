@@ -11,7 +11,6 @@ public class EntidadFinancieraApplication {
 	}
 
 }
-//Brayam
 //alejandro aguilera
 //eidan cardenas
 //fredy estupiñan
